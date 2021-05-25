@@ -26,7 +26,6 @@ function isBookRead(books, titleToSearch) {
 } 
 
 /*
-OOOO copiandome un poco de vuestra correcion y quda mucho mas limpio
 
 function isBookRead(books,titleToSearch){
     var titulo = books.find(book =>{ return book.title === titleToSearch;});//busco del array que tenga el mismo nombre
